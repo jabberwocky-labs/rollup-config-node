@@ -5,6 +5,7 @@
     "sideEffects": false,
     "type": "module",
     "prettier": "@jabberwocky-labs/prettier-config",
+    "main": "index.js",
     "files": [],
     "scripts": {
         "format": "yarn prettier . --write",
